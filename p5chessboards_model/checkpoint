@@ -1,0 +1,2 @@
+model_checkpoint_path: "p5chessboards_model"
+all_model_checkpoint_paths: "p5chessboards_model"

@@ -1,0 +1,2 @@
+model_checkpoint_path: "pMSEchessboards_model"
+all_model_checkpoint_paths: "pMSEchessboards_model"
